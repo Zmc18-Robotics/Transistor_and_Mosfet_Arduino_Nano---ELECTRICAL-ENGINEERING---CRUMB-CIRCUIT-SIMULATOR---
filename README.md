@@ -32,7 +32,8 @@ Here the materials :
 - Buzzer x2
 - Resistor 220Ω x7
 - Resistor 1000Ω x4
-
+- Breadboard x2
+  
 ---
 
 
